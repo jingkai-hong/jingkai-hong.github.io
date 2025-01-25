@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Jingkai / Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Jingkai Hong"
 description              : &description "personal description"
 url                      : https://jingkai-hong.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Jingkai Hong"
-  pronouns         : "He/Him"# example: "she/her"  
+  pronouns         : "He/Him"  
   bio              : "PhD Candidate in Behavioral Science"
   location         : "Coventry, UK"
   employer         : "Warwick Business School"
