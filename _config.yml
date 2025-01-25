@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jingkai / Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Jingkai Hong"
 description              : &description "personal description"
