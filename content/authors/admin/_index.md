@@ -23,11 +23,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Candidate in Behavioural Science
+role: PhD in Behavioural Science
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Warwick Business School
+  - name: University of Warwick, Warwick Business School
     url: https://www.wbs.ac.uk/
 
 # Social network links
@@ -52,27 +52,36 @@ interests:
   - Consumer Behaviour
 
 education:
-  - area: PhD Business and Management (Behavioural Science Focus)
+  - area: PhD, Business and Management (Behavioural Science Focus)
     institution: University of Warwick
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_start: 2020-10-01
+    date_end: 2025-03-30
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+      Thesis on _Decoding Cognitive Bias in Decision Making_. Supervised by Dr. Tim Mullett.
     button:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+  - area: PhD Business and Management (Behavioural Science Focus)
+    institution: University of Warwick
+    date_start: 2020-10-01
+    date_end: 2025-03-30
     summary: |
-      GPA: 4.0/4.0
+      Thesis on _Decoding Cognitive Bias in Decision Making_. Supervised by Dr. Tim Mullett.
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com/thesis.pdf'
+  - area: MSc, Financial Modelling and Optimization
+    institution: University of Edinburgh, School of Mathematics
+    date_start: 2019-09-01
+    date_end: 2020-10-31
+    summary: |
+      Distinction
 
       Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+  - area: BSc, Mathematics and Applied Mathematics
+    institution: Jiangsu University, School of Mathematics
+    date_start: 2014-09-01
+    date_end: 2018-6-31
     summary: |
       GPA: 3.9/4.0
 
@@ -131,10 +140,10 @@ skills:
         icon: book-open
 
 languages:
+  - name: Mandarin
+    percent: 100
   - name: English
     percent: 100
-  - name: Spanish
-    percent: 50
 
 # Awards.
 #   Add/remove as many awards below as you like.
